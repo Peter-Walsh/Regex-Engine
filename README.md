@@ -5,11 +5,11 @@ Note to self for now; The input has to be taken in the form "regex|string" or so
 
 Meta characters:
   
-  "$" Matches the end of the string
-  "^" Matches the start of the string
-  "?" Matches 0 or 1 of the preceding character
-  "\*" Matches 0 or more of the preceding character
-  "+" Matches 1 or more of the preceding character
-  "." The wildcard operator works in here. Matches any character
+  "$" Matches the end of the string\n
+  "^" Matches the start of the string\n
+  "?" Matches 0 or 1 of the preceding character\n
+  "\*" Matches 0 or more of the preceding character\n
+  "+" Matches 1 or more of the preceding character\n
+  "." The wildcard operator works in here. Matches any character\n
   
-  "\" The escape sequence also works here to escape any of the other meta characters
+  "\\" The escape sequence also works here to escape any of the other meta characters\n
